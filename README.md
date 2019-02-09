@@ -5,3 +5,6 @@ Repository of smaller coding projects and exercises done by Dylan Hesser
 Substring tester - Program that will ask user for a sentence followed by a substring, will then return a answer to if that substring is in the sentence or not
 
 Average Grade - will read a set of grades from a file into the program, then will calculate the average of the given grades
+
+
+HackerName - Program that will take certain user information to create a hacker name. One bit of information is the email address, which the program will catch if a incorrect email format is entered due to a exception in the program
