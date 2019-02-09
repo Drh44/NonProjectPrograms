@@ -13,3 +13,5 @@ HackerName - Program that will take certain user information to create a hacker 
 Name Collection - program that will display names entered into a array using an interface called NameCollector
 
 Automobile - Program that will display information on a automobile that is coded into the program. Program uses set methods to override the color, make, and price of the vehicle object
+
+Calories- Program that shows how many calories are burned doing an activity for a certain amount of time. Only a few activites are shown but numbers are accurate for each one.
