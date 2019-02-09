@@ -15,3 +15,5 @@ Name Collection - program that will display names entered into a array using an 
 Automobile - Program that will display information on a automobile that is coded into the program. Program uses set methods to override the color, make, and price of the vehicle object
 
 Calories- Program that shows how many calories are burned doing an activity for a certain amount of time. Only a few activites are shown but numbers are accurate for each one.
+
+Craps- very simple program to play a 100 games of Craps. The computer only displays how many times you rolled a 7 or 11, out of 100 times. 
