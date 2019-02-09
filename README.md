@@ -8,3 +8,6 @@ Average Grade - will read a set of grades from a file into the program, then wil
 
 
 HackerName - Program that will take certain user information to create a hacker name. One bit of information is the email address, which the program will catch if a incorrect email format is entered due to a exception in the program
+
+
+Name Collection - program that will display names entered into a array using an interface called NameCollector
